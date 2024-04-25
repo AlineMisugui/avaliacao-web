@@ -1,0 +1,10 @@
+main>ul>li>button {
+    background-color:  #ff4136;
+    padding: 10px;
+    color: white;
+}
+
+main>ul>li>button:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
